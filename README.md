@@ -52,7 +52,7 @@ Diagrama de redes; <br />
 
 ## Modelo de negócio
 Canvas SEBRAE; <br />
-Kanban.
+Kanban: https://github.com/LucasLiSan?tab=projects
 
 ## Pitch
 Link para o pitch no Youtbe em breve;
