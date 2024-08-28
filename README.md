@@ -33,7 +33,7 @@ Paleta de cores produto: <br />
 - ![#000000](https://via.placeholder.com/15/000000/000000?text=+) `#000000` <br />
 Logomarca equipe e produto; <br />
 Logotipo equipe e produto; <br />
-Tipografia equipe: <span style="font-family: 'Gill Sans', 'Gill Sans MT', sans-serif; font-style: italic;"> Gill Sans, Gill Sans MT; </span> <br />
+Tipografia equipe: Gill Sans, Gill Sans MT, Torchzilla (Logo) <br />
 Tipografia produto: Em breve.
 
 ## UI de alta fidelidade Figma
