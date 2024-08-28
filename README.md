@@ -37,7 +37,8 @@ Tipografia equipe: <span style="font-family: 'Gill Sans', 'Gill Sans MT', sans-s
 Tipografia produto: Em breve.
 
 ## UI de alta fidelidade Figma
-Link em breve.
+Projeto: https://www.figma.com/design/RXSc8hhcX1ZrxVMlKxbFqO/NewProject?node-id=0-1&t=KlYgWcWBhvciKbCP-1 <br />
+Protótipo: https://www.figma.com/proto/RXSc8hhcX1ZrxVMlKxbFqO/NewProject?node-id=24-2&t=oEG1BUn5MtwhOEZ2-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=3%3A56
 
 ## Banco de dados
 Modelo conceitual; <br />
