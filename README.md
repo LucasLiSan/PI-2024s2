@@ -4,18 +4,30 @@
 Repositório para o projeto integrador do 2º semestre de 2024. Nele irá conter:
 
 ## LandingPage da equipe "Aries"
-Tenologias usasdas <br />
+Linguagens usasdas <br />
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js" />
   </a>
 </p>
+Editor <br />
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode" />
+  </a>
+</p>
 
 ## Site do produto "Charlie Mike"
-Tecnologias usadas <br />
+Linguagens usadas <br />
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" />
+  </a>
+</p>
+Editor <br />
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode" />
   </a>
 </p>
 
@@ -33,12 +45,12 @@ Paleta de cores produto: <br />
 - ![#000000](https://via.placeholder.com/15/000000/000000?text=+) `#000000` <br />
 Logomarca equipe e produto; <br />
 Logotipo equipe e produto; <br />
-Tipografia equipe: Gill Sans, Gill Sans MT, Torchzilla (Logo) <br />
+Tipografia equipe: ***Gill Sans, Gill Sans MT, Torchzilla (Logo)***; <br />
 Tipografia produto: Em breve.
 
 ## UI de alta fidelidade Figma
-Projeto: https://www.figma.com/design/RXSc8hhcX1ZrxVMlKxbFqO/NewProject?node-id=0-1&t=KlYgWcWBhvciKbCP-1 <br />
-Protótipo: https://www.figma.com/proto/RXSc8hhcX1ZrxVMlKxbFqO/NewProject?node-id=24-2&t=oEG1BUn5MtwhOEZ2-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=3%3A56
+[Projeto Figma](https://www.figma.com/design/RXSc8hhcX1ZrxVMlKxbFqO/NewProject?node-id=0-1&t=KlYgWcWBhvciKbCP-1) <br />
+[Protótipo](https://www.figma.com/proto/RXSc8hhcX1ZrxVMlKxbFqO/NewProject?node-id=24-2&t=oEG1BUn5MtwhOEZ2-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=3%3A56)
 
 ## Banco de dados
 Modelo conceitual; <br />
@@ -52,12 +64,23 @@ Diagrama de redes; <br />
 
 ## Modelo de negócio
 Canvas SEBRAE; <br />
-Kanban: https://github.com/LucasLiSan?tab=projects
+[Kanban](https://github.com/LucasLiSan?tab=projects)
 
 ## Pitch
 Link para o pitch no Youtbe em breve;
 
 ## Artigo cientifico
-Tecnologia usada: <br />
-<img src="https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white" /> <br />
+Linguagem usada: <br />
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=latex" />
+  </a>
+</p>
+Editor <br />
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode" />
+  </a>
+</p>
+
 Link para o artigo cientifico em breve;
