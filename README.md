@@ -17,7 +17,7 @@ Editor <br />
   </a>
 </p>
 
-## Site do produto "Charlie Mike"
+## Site do produto "Charlie Mic"
 Linguagens usadas <br />
 <p>
   <a href="https://skillicons.dev">
