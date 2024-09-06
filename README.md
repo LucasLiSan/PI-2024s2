@@ -1,5 +1,3 @@
-<link rel="stylesheet" href="/path/to/folder/css/academicons.min.css"/>
-
 # PI-2024 - 2º Semestre. Equipe Aries
 Repositório para o projeto integrador do 2º semestre de 2024. Nele irá conter:
 
